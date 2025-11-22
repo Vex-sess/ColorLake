@@ -41,3 +41,6 @@ npm run preview
 1. 将新的 `.cube` 文件放入 `public/LUTS`（支持包含空格的文件名）。
 2. 若需要展示顺序不同，可在 `src/data/luts.ts` 中调整数组顺序或增删条目。
 3. 重新运行 `npm run dev` 或 `npm run build` 即可生效。
+
+### Credit
+[https://github.com/bjzhou/3dlut-creator](https://github.com/bjzhou/3dlut-creator)
